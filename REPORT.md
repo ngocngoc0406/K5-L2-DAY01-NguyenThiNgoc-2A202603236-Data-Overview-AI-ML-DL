@@ -1,6 +1,6 @@
 # Báo cáo bài thực hành Ngày 1 – Đọc prediction YOLO11 để hiểu định dạng nhãn
 
-**Ngày chạy:** 15/02/2025
+**Ngày chạy:** 06/11/2026
 - **Runtime Colab:** CPU (Intel Xeon)
 - **Python:** 3.13.18
 - **PyTorch:** 2.11.0+cpu
